@@ -1,7 +1,4 @@
-# Police Route – BTA L'Isle-d'Abeau
+# Police Route – version en ligne retirée
 
-Outil des procédures police route (rétention, stupéfiants, alcoolémie, fourrière, rapport d'infraction).
-
-Application en ligne : https://lucashydre.github.io/police-route/
-
-Aucune donnée saisie n'est enregistrée ni envoyée : tout reste dans le navigateur de l'utilisateur.
+L'application Police Route de la BTA L'Isle-d'Abeau s'utilise désormais uniquement dans Grist.
+Ce dépôt ne contient plus que la page qui désinstalle l'ancienne version des téléphones.
